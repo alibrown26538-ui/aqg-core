@@ -1,0 +1,6 @@
+{
+  "device_name": "Google Axion Server Node",
+  "architecture": "ARM64-v9.2-A",
+  "vass_bits": 48,
+  "page_size_kb": 64
+}

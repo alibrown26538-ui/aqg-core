@@ -1,0 +1,6 @@
+{
+  "device_name": "MediaTek MT8183 (Jacuzzi)",
+  "architecture": "AArch64",
+  "vass_bits": 39,
+  "page_size_kb": 4
+}
